@@ -1,2 +1,5 @@
 # Hacker_Rank_
-This is a document that I keep my progress on HackerRank
+This repository is a collection of my solution to various programming problems on the HackerRank website. The repository is organized by the topic and may contain multiple programming languages, i.e., Python, JavaScript, etc.
+Each solution in the repository is labeled with the name of the problem and the programming language used. The solutions are well commented on and easy to understand, making it a valuable resource for anyone looking to improve their problem-solving and programming skills. 
+By creating this repository, I document my progress as I work through the HackerRank problems and share my solutions with others who may be struggling with similar issues. The repository serves as a reference for future problem-solving and provides a platform for collaboration and discussion among fellow programmers. 
+Overall, the HackerRank repository is valuable for anyone looking to improve their coding skills, learn new programming concepts, or have fun solving challenging problems. 
